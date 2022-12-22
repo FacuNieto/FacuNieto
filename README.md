@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FacuNieto
+- 👋 Hi, I’m @FacuNieto and i'm a biomedical engineer and a ML developer!
 - 👀 I’m interested in biomedical engineering, robotics and machine learning!
 - 🌱 I’m currently learning about the use of biomedical signals for the creation of ML models
 - 💞️ I’m looking to collaborate on any robotics project applied to humans
